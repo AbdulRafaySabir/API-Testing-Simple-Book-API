@@ -4,11 +4,12 @@ The API is available at https://simple-books-api.click
 
 # Description: 
 I tested All Endpoints 
-Get /status, GET /books, GET /books/:bookId, POST /orders, GET /orders, GET /orders/:orderId, PATCH /orders/:orderId, DELETE /orders/:orderId, POST /api-clients/
-Validated API responses including status codes, response bodies, and error handling
-Covered both positive and negative test scenarios
-Created test case documentation in Google Sheets
-Verified data formats and response validations manually using Postman
+GET/status, GET /books, GET /books/:bookId, POST /orders, GET /orders, GET /orders/:orderId, PATCH /orders/:orderId, DELETE /orders/:orderId, POST /api-clients/ .
+
+Validated API responses including status codes, response bodies, and error handling.
+Covered both positive and negative test scenarios.
+Created test case documentation in Google Sheets.
+Verified data formats and response validations manually using Postman.
 
 # Tools: 
 Postman, Excel
